@@ -19,4 +19,4 @@
 
 ## Tests:
 
-- None 
+- python manage.py test
